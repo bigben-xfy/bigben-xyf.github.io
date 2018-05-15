@@ -315,16 +315,16 @@ body {
   word-wrap: break-word; }
 
 .page2-content {
-  width: 790px;
-  height: 500px;
+  width: 779px;
+  height: 492px;
   margin: auto;
-  background-image: url(static/img/page2_bg.0f57088.png); }
+  background-image: url(static/img/page2_bg.c795dd5.png); }
 
 .page2-content-en {
-  width: 798px;
-  height: 514px;
+  width: 793px;
+  height: 513px;
   margin: auto;
-  background-image: url(static/img/page2_bg_en.2acffca.png); }
+  background-image: url(static/img/page2_bg_en.ea7cd14.png); }
 
 .page3-content {
   width: 929px;
@@ -519,13 +519,13 @@ body {
 .page5-content {
   width: 903px;
   height: 439px;
-  margin: auto;
+  margin: 60px auto 0;
   background-image: url(static/img/page5_content.ee54724.png); }
 
 .page5-content-en {
   width: 936px;
   height: 445px;
-  margin: auto;
+  margin: 60px auto 0;
   background-image: url(static/img/page5_content_en.43a453a.png); }
 
 .page6-body {
@@ -550,16 +550,16 @@ body {
     word-wrap: break-word; }
 
 .page6-content-bg1 {
-  background-image: url(static/img/6_1.d41edab.png); }
+  background-image: url(static/img/6_1.3af57cf.png); }
 
 .page6-content-bg2 {
-  background-image: url(static/img/6_2.379498b.png); }
+  background-image: url(static/img/6_2.022cedd.png); }
 
 .page6-content-bg3 {
-  background-image: url(static/img/6_3.71eef2a.png); }
+  background-image: url(static/img/6_3.a4e83ad.png); }
 
 .page6-content-bg4 {
-  background-image: url(static/img/6_4.772cff4.png); }
+  background-image: url(static/img/6_4.a89a44e.png); }
 
 .page6-content-title {
   font-size: 18px;
